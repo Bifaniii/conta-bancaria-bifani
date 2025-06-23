@@ -30,3 +30,17 @@ O sistema permite:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2.  Abra o projeto em sua IDE Java (IntelliJ, Eclipse, VS Code ou outra de sua preferência).
+3.  Execute a classe Main para iniciar o programa.
+4.  Siga as instruções no menu do terminal.
+
+🏆 Aprendizados
+Aplicação de conceitos de POO na prática;
+Criação de métodos e classes com responsabilidades bem definidas;
+Implementação de regras de negócio;
+Uso de Git e GitHub para versionamento e portfólio.
+
+✍️ Autor
+Guilherme Bifani de Santana
